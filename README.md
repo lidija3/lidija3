@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-![banner](https://github.com/lidija3/lidija3/assets/122623282/53651190-b6d8-415f-95ed-618a03a82975)
+![banner](https://github.com/lidija3/lidija3/assets/122623282/17d22cc7-1356-473e-9318-b6e9e2fec279)
 
 ## About me
 
