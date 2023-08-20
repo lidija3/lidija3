@@ -26,5 +26,5 @@ I'm a passionate psychologist turned front-end developer on an exciting journey 
 
 ## Connect with me
 
-* <a href="https://www.linkedin.com/in/lidija-gaj%C5%A1ek-2a0035287/" target="blank">LinkedIn</a>
+* <a href="https://www.linkedin.com/in/lidija-gaj%C5%A1ek-2a0035287/" target="_blank">LinkedIn</a>
 
