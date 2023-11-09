@@ -11,7 +11,6 @@ I'm a passionate psychologist turned front-end developer on an exciting journey 
 ## Currently
 
 * Working on new projects!
-* Learning: Vue JS.
 
 ## Tech Stack
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></span>
